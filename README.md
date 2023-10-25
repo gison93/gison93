@@ -1,16 +1,32 @@
-### Hi there 👋
+# Hi! I’m Nicolò👋
 
-<!--
-**gison93/gison93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can call me Nick or Nico if you don't like accents.
 
-Here are some ideas to get you started:
+## Work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a:
+
+```python
+for role in ["scientist", "engineer", "person"]:
+    print(f"- Data {role}") 
+```
+Basically I use statistics and Python to extract business value and ~~create~~ solve problems.
+
+## Out of Office
+
+When I am not wrangling data with Python, I am probably:
+
+* spending quality time with my wife & family
+* hanging out with my friends
+* reading good books
+* making memes
+
+To sum everything up:
+
+<img src="https://www.nicologiso.com/images/bio-what-i-love.jpg" width="50%" height="50%">
+
+## Side Projects
+
+[Personal blog](https://www.nicologiso.com/) where I publish posts related to [data science and programming](https://www.nicologiso.com/tech/) but also [non technical stuff](https://www.nicologiso.com/essays/).
+
+[While Model Trains](https://whilemodeltrains.com/) is a web app offering a productive alternative to mindless social media scrolling while your model trains. It presents 3 blog posts about data/AI/ML, and if none of the 3 captures your interest, you can simply click a button to get new articles until you find one to read.
