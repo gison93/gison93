@@ -30,3 +30,5 @@ To sum everything up:
 [Personal blog](https://www.nicologiso.com/) where I publish posts related to [data science and programming](https://www.nicologiso.com/tech/) but also [non technical stuff](https://www.nicologiso.com/essays/).
 
 [While Model Trains](https://whilemodeltrains.com/) is a web app offering a productive alternative to mindless social media scrolling while your model trains. It presents 3 blog posts about data/AI/ML, and if none of the 3 captures your interest, you can simply click a button to get new articles until you find one to read.
+
+[Italian Art Bot](https://bsky.app/profile/italianartbot.bsky.social) is a Python bot that posts images of Italian paintings on the social platform Bluesky 3 times per day.
